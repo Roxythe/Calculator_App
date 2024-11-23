@@ -44,8 +44,7 @@ Testing
         Operator precedence and associativity.
         GUI button properties (e.g., labels, sizes, colors).
 
-Installation and Usage
-Prerequisites
+Installation and Usage Prerequisites
 
     Visual Studio with C++ development environment installed.
     wxWidgets library configured in your project.
@@ -53,8 +52,8 @@ Prerequisites
 
 Clone the Repository
 
-git clone <https://github.com/Roxythe/Calculator_App.git>
-cd CalculatorApp
+    git clone <https://github.com/Roxythe/Calculator_App.git>
+    cd CalculatorApp
 
 Build and Run
 
@@ -80,8 +79,9 @@ Future Improvements
 
 License
 
-This project is licensed under the MIT License.
+    This project is licensed under the MIT License.
+
 Author
 
-[Roxythe (Rocky) Harding]
-A C++ student with a focus on game development and software design.
+    Roxythe (Rocky) Harding
+    A C++ student with a focus on game development and software design.
