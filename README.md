@@ -1,5 +1,9 @@
 # Calculator_App
-Description
+
+## Media
+-[Calculator App Demo](https://youtube.com/shorts/52UYw7cDynw?feature=share): Short showcase demo of my calculator app.
+
+## Description
 
 The Calculator App is a graphical user interface (GUI)-based application built using C++ and wxWidgets. It provides functionality for performing basic and advanced mathematical operations, including unary and binary calculations. This project emphasizes modular programming and unit testing, making it a great example of a well-structured and maintainable application.
 Features
@@ -17,7 +21,7 @@ Features
         Green button for the = operator.
     Keyboard-Free Interaction: All operations are performed using the provided buttons.
 
-Project Structure
+## Project Structure
 
 The project is divided into several components for better organization and modularity:
 Core Classes
@@ -36,7 +40,7 @@ Core Classes
         The main GUI frame for the application.
         Handles user input and manages the layout of the calculator.
 
-Testing
+## Testing
 
     Unit tests are implemented for both ButtonFactory and CalculatorProcessor using Microsoft's C++ Unit Test Framework.
     Tests cover various scenarios, such as:
@@ -44,44 +48,44 @@ Testing
         Operator precedence and associativity.
         GUI button properties (e.g., labels, sizes, colors).
 
-Installation and Usage Prerequisites
+## Installation and Usage Prerequisites
 
     Visual Studio with C++ development environment installed.
     wxWidgets library configured in your project.
     Git (optional, for version control).
 
-Clone the Repository
+## Clone the Repository
 
     git clone <https://github.com/Roxythe/Calculator_App.git>
     cd CalculatorApp
 
-Build and Run
+## Build and Run
 
     Open the solution file (CalculatorApp.sln) in Visual Studio.
     Build the solution to compile the application.
     Run the application to start using the calculator.
 
-Testing
+## Testing
 
     Open the solution file and set the Test Project (CalculatorAppTests) as the startup project.
     Run the unit tests using the Test Explorer in Visual Studio.
 
-Known Issues
+## Known Issues
 
     No support for parentheses or advanced mathematical functions.
 
-Future Improvements
+## Future Improvements
 
     Parentheses Support: Add the ability to evaluate expressions with parentheses.
     Enhanced Trigonometric Functions: Support for degrees and radians.
     Theme Customization: Allow users to change button colors or themes.
     Keyboard Integration: Enable input from the keyboard.
 
-License
+## License
 
     This project is licensed under the MIT License.
 
-Author
+## Author
 
     Roxythe (Rocky) Harding
     A C++ student with a focus on game development and software design.
